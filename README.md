@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://camo.githubusercontent.com/2c71a94ee27383e97b6b5f603dab0012969d00c49ab5b1a82a365741b1cab042/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d636172642d312e676966)
 
 <h1 align="center">Hi 👋, I'm Charles Dobson</h1>
 <h3 align="center">A passionate software developer living in Georgia</h3>
