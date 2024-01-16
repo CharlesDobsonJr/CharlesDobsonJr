@@ -1,5 +1,4 @@
-![MasterHead]
-(https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.redd.it%2Fg38817mqb1361.png&tbnid=3I1WGiJ7oaAITM&vet=10CBIQxiAoAmoXChMIoI-1otzggwMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fgogambar.wordpress.com%2F2020%2F12%2F04%2Fgithub-wallpaper-1920x1080%2F&docid=vxDo7ucZUmbjgM&w=1920&h=1080&itg=1&q=github%20headers&ved=0CBIQxiAoAmoXChMIoI-1otzggwMVAAAAAB0AAAAAEA8)
+![MasterHead](https://github.blog/wp-content/uploads/2023/05/1200.630-Security-wLogo.png?resize=1200%2C630)
 
 <h1 align="center">Hi, I'm Charles Dobson</h1>
 <h3 align="center">A passionate software developer living in Georgia</h3>
