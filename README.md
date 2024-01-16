@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/2c71a94ee27383e97b6b5f603dab0012969d00c49ab5b1a82a365741b1cab042/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d636172642d312e676966)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2023-08-09-four-tips-to-keep-your-github-actions-workflows-secure%2F&psig=AOvVaw2rv4aXR_J8nB2SUDRNg2Fc&ust=1705453680281000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCPtaLc4IMDFQAAAAAdAAAAABAJ)
 
 <h1 align="center">Hi, I'm Charles Dobson</h1>
 <h3 align="center">A passionate software developer living in Georgia</h3>
