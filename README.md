@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2023-08-09-four-tips-to-keep-your-github-actions-workflows-secure%2F&psig=AOvVaw2rv4aXR_J8nB2SUDRNg2Fc&ust=1705453680281000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCPtaLc4IMDFQAAAAAdAAAAABAJ)
+![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.redd.it%2Fg38817mqb1361.png&tbnid=3I1WGiJ7oaAITM&vet=10CBIQxiAoAmoXChMIoI-1otzggwMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fgogambar.wordpress.com%2F2020%2F12%2F04%2Fgithub-wallpaper-1920x1080%2F&docid=vxDo7ucZUmbjgM&w=1920&h=1080&itg=1&q=github%20headers&ved=0CBIQxiAoAmoXChMIoI-1otzggwMVAAAAAB0AAAAAEA8)
 
 <h1 align="center">Hi, I'm Charles Dobson</h1>
 <h3 align="center">A passionate software developer living in Georgia</h3>
