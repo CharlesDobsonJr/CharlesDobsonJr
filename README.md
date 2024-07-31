@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [e-commerce site (Coffee Junkee Detroit)](Coming Soon)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 👯 I’m looking to collaborate on **cool app ideas**
 
